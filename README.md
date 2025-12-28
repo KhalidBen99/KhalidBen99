@@ -1,16 +1,17 @@
-## Hi there 👋
+# Welcome to my GitHub! 👋
 
-<!--
-**KhalidBen99/KhalidBen99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **KhalidBen** a passionate game developer and engineer specializing in **Unreal Engine**. I love creating projects that combine programming and art. 🎮✨  
 
-Here are some ideas to get you started:
+Here you'll find:
+- **Unreal Engine** projects & Blueprints
+- Game assets and development tools
+- Personal experiments in 3D modeling and programming
+- Open-source projects for learning and collaboration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **My goal**: To develop innovative and professional games while sharing knowledge with the developer community.  
+
+📫 **Get in touch**:
+- To share ideas, collaborate, or chat about games and tech!
+- MY **FAB** https://www.fab.com/sellers/Akitao%2099
+
+  
