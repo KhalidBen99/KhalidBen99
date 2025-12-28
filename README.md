@@ -12,6 +12,9 @@ Here you'll find:
 
 📫 **Get in touch**:
 - To share ideas, collaborate, or chat about games and tech!
-- MY **FAB** https://www.fab.com/sellers/Akitao%2099
+
+- **FAB**: https://www.fab.com/sellers/Akitao%2099
+- Instagram : https://www.instagram.com/khalid.ben99/
+- youtube : https://www.youtube.com/@Akitao_99
 
   
