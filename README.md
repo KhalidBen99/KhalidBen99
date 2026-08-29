@@ -5,7 +5,6 @@ I'm **KhalidBen** a passionate game developer and engineer specializing in **Unr
 Here you'll find:
 - **Unreal Engine** projects & Blueprints
 - Game assets and development tools
-- Personal experiments in 3D modeling and programming
 - Open-source projects for learning and collaboration
 
 💡 **My goal**: To develop innovative and professional games while sharing knowledge with the developer community.  
